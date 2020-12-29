@@ -1,0 +1,7 @@
+# ap/client(0/1) coordinates(x,y,z)
+AP	4,4,2
+STA	4,4,0  
+STA	2,2,0
+STA	2,6,0
+STA	6,2,0
+STA	6,6,0
